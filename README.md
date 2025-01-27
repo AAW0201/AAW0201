@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello, I'm Alea! My pronounds are she/her. I'm just starting out with data science, learning SQL and Python. I also have an interest in CSS and Javascript and have a pretty basic knowledge of both. 
+
 
 <!--
 **AAW0201/AAW0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
